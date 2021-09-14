@@ -1,0 +1,10 @@
+{
+  "name": "project1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "kashif-ghafoor <kashifghafoor140@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
